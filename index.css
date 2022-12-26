@@ -1,0 +1,51 @@
+#img
+{
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 100px; 
+    float: left;
+}
+a
+{
+    text-decoration: none;
+    color: black;
+}
+.edu
+{
+    border: 2px solid black;
+    text-align: center;
+    border-collapse: collapse;
+    padding: 10px;
+}
+#div
+{
+    padding: 20px;
+    border: 4px double black;
+    margin: auto;
+    width: 30%;
+
+}
+.label
+{
+    float: left;
+}
+.input
+{
+    float: right;
+}
+#contactbody
+{
+    background-color: aquamarine;
+}
+#maindiv
+{
+    width: auto;
+    height:100px;
+    padding:0px;
+    margin: 0px;
+}
+#submit
+{
+    background-color: greenyellow;
+    color: aliceblue;
+}
